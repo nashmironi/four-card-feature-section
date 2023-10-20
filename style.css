@@ -30,7 +30,7 @@
 }
 .txt{
     
-    color: #4D4F62;
+    color:var(--black);
     font-family: "Poppins";
     font-size: 15px;
     font-weight: 400;
@@ -128,8 +128,7 @@ body{
     }
 
     .txt{
-    
-        color: #4D4F62;
+        color: var(--black);
         font-family: "Poppins";
         font-size: 15px;
         font-weight: 400;
